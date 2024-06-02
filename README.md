@@ -18,3 +18,9 @@
 - Error Handling
 - HTTPs
 - Tree Shaking - remove unused code
+
+# React Hooks 
+(just a normal javascript utility function)
+- there are two imp react hooks:-
+- useState() :- used to create state variable
+- useEffect()
